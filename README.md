@@ -26,8 +26,4 @@
 
 6. 게임을 실행해주세요.   
 ![play](https://github.com/chohaeminn/java_project/assets/118713922/dd721548-2902-48b6-91b4-fd201b33c809)
-  
-
-9. 파일을 실행해주세요.
-[파일 실행](https://ibb.co/ZHnM0fw)   
 
